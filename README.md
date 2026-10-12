@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Elraghy!</h1>
 
-- 🔭 I’m currently working on **a MERN stack webpage**
-
-- 🌱 I’m currently learning **machine learning, cryptography, and distributed systems**
-
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 🤝 I’m looking for help with **machine learning and ethical hacking**
-
-- 💬 Ask me about **Object-Oriented Programming, Data Structures & Algorithms, or maybe even a movie recommendation ;)**
 
 - 📫 How to reach me **yraghy1@gmail.com**
 
